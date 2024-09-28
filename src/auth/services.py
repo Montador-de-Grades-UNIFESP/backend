@@ -20,6 +20,8 @@ async def authenticate_token_id(id_token) -> str | None:
     """Verifica se o token de autenticação é válido e retorna o ID do usuário."""
     decoded_token = auth.verify_id_token(id_token)
     user_id = decoded_token.get('uid')
-    if user_id:
-        return user_id
-    return None
+    if not user_id:
+        return None
+    if auth.get_user(user_id).email.split(r'@')[1] != 'unifesp.br':
+        return None
+    return user_id
