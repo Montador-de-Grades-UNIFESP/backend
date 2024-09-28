@@ -1,0 +1,300 @@
+[
+  {
+    "cr": "9.969",
+    "creditos": 20,
+    "curso": "BCT-I",
+    "grade": [
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "19h00-21h00",
+          "19h00-21h00"
+        ],
+        "ID": 176,
+        "NOME": "Projeto e Análise de Algoritmos",
+        "PROFESSORES": "Reginaldo",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "21h00-23h00",
+          "21h00-23h00"
+        ],
+        "ID": 175,
+        "NOME": "Programação Orientada a Objetos",
+        "PROFESSORES": "Otavio",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "19h00-21h00",
+          "19h00-21h00"
+        ],
+        "ID": 15,
+        "NOME": "Banco de Dados",
+        "PROFESSORES": "Daniela Musa",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "21h00-23h00",
+          "21h00-23h00"
+        ],
+        "ID": 51,
+        "NOME": "Cálculo Numérico",
+        "PROFESSORES": "Leduíno",
+        "TERMO": "4",
+        "TURMA": "NB"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "19h00-21h00"
+        ],
+        "ID": 25,
+        "NOME": "Bioética e Biosseguranca",
+        "PROFESSORES": "Luciane",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "21h00-23h00"
+        ],
+        "ID": 228,
+        "NOME": "Tópicos especiais em Economia e Negócios I",
+        "PROFESSORES": "Scriptore",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "15h30-17h30",
+          "15h30-17h30"
+        ],
+        "ID": 102,
+        "NOME": "Inferência e Análise de Regressão",
+        "PROFESSORES": "Luzia",
+        "TERMO": "6",
+        "TURMA": "I"
+      }
+    ],
+    "ra": "999999",
+    "termo": "4"
+  },
+  {
+    "cr": "8.450",
+    "creditos": 24,
+    "curso": "BCT-I",
+    "grade": [
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "08h00-10h00",
+          "08h00-10h00"
+        ],
+        "ID": 230,
+        "NOME": "Sistemas Operacionais",
+        "PROFESSORES": "Marcio",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Terça"
+        ],
+        "HORARIO": [
+          "19h00-21h00"
+        ],
+        "ID": 112,
+        "NOME": "Redes de Computadores",
+        "PROFESSORES": "Bruno",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Quinta"
+        ],
+        "HORARIO": [
+          "21h00-23h00"
+        ],
+        "ID": 135,
+        "NOME": "Engenharia de Software",
+        "PROFESSORES": "Sérgio",
+        "TERMO": "4",
+        "TURMA": "I"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "21h00-23h00",
+          "21h00-23h00"
+        ],
+        "ID": 144,
+        "NOME": "Métodos Numéricos",
+        "PROFESSORES": "Hugo",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "19h00-21h00"
+        ],
+        "ID": 160,
+        "NOME": "Inteligência Artificial",
+        "PROFESSORES": "Mariana",
+        "TERMO": "8",
+        "TURMA": "IA"
+      }
+    ],
+    "ra": "888888",
+    "termo": "4"
+  },
+  {
+    "cr": "7.890",
+    "creditos": 22,
+    "curso": "BCC/EC-I",
+    "grade": [
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCC/EC-I",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "15h30-17h30",
+          "15h30-17h30"
+        ],
+        "ID": 121,
+        "NOME": "Teoria da Computação",
+        "PROFESSORES": "Laura",
+        "TERMO": "6",
+        "TURMA": "I"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCC/EC-I",
+        "DIA": [
+          "Segunda"
+        ],
+        "HORARIO": [
+          "21h00-23h00"
+        ],
+        "ID": 124,
+        "NOME": "Computação Gráfica",
+        "PROFESSORES": "Felipe",
+        "TERMO": "4",
+        "TURMA": "IA"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCC/EC-I",
+        "DIA": [
+          "Quarta"
+        ],
+        "HORARIO": [
+          "19h00-21h00"
+        ],
+        "ID": 129,
+        "NOME": "Programação de Jogos",
+        "PROFESSORES": "Carlos",
+        "TERMO": "6",
+        "TURMA": "IC"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCC/EC-I",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "15h30-17h30"
+        ],
+        "ID": 133,
+        "NOME": "Métodos de Otimização",
+        "PROFESSORES": "Gustavo",
+        "TERMO": "4",
+        "TURMA": "NA"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCC/EC-I",
+        "DIA": [
+          "Terça"
+        ],
+        "HORARIO": [
+          "19h00-21h00"
+        ],
+        "ID": 145,
+        "NOME": "Análise Comportamental",
+        "PROFESSORES": "Roberta",
+        "TERMO": "4",
+        "TURMA": "N"
+      }
+    ],
+    "ra": "777777",
+    "termo": "4"
+  }
+]

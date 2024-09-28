@@ -1,0 +1,284 @@
+[
+  {
+    "cr": 9.569,
+    "creditos": 21,
+    "curso": "BCT-I",
+    "grade": [
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "19h00-21h00",
+          "19h00-21h00"
+        ],
+        "ID": 176,
+        "NOME": "Projeto e Análise de Algoritmos",
+        "PROFESSORES": "Reginaldo",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "21h00-23h00",
+          "21h00-23h00"
+        ],
+        "ID": 175,
+        "NOME": "Programação Orientada a Objetos",
+        "PROFESSORES": "Otavio",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "19h00-21h00",
+          "19h00-21h00"
+        ],
+        "ID": 15,
+        "NOME": "Banco de Dados",
+        "PROFESSORES": "Daniela Musa",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "21h00-23h00",
+          "21h00-23h00"
+        ],
+        "ID": 51,
+        "NOME": "Cálculo Numérico",
+        "PROFESSORES": "Leduíno",
+        "TERMO": "4",
+        "TURMA": "NB"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "19h00-21h00"
+        ],
+        "ID": 25,
+        "NOME": "Bioética e Biosseguranca",
+        "PROFESSORES": "Luciane",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "21h00-23h00"
+        ],
+        "ID": 228,
+        "NOME": "Tópicos especiais em Economia e Negócios I",
+        "PROFESSORES": "Scriptore",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "15h30-17h30",
+          "15h30-17h30"
+        ],
+        "ID": 102,
+        "NOME": "Inferência e Análise de Regressão",
+        "PROFESSORES": "Luzia",
+        "TERMO": "6",
+        "TURMA": "I"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "13h30-15h30",
+          "13h30-15h30"
+        ],
+        "ID": 11,
+        "NOME": "Arquitetura e Organização de Computadores",
+        "PROFESSORES": "Thaina",
+        "TERMO": "4",
+        "TURMA": "IB"
+      }
+    ],
+    "ra": "999999",
+    "termo": "4"
+  },
+  {
+    "cr": 10,
+    "creditos": 20,
+    "curso": "BCT-I",
+    "grade": [
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "19h00-21h00",
+          "19h00-21h00"
+        ],
+        "ID": 176,
+        "NOME": "Projeto e Análise de Algoritmos",
+        "PROFESSORES": "Reginaldo",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Segunda",
+          "Quarta"
+        ],
+        "HORARIO": [
+          "21h00-23h00",
+          "21h00-23h00"
+        ],
+        "ID": 175,
+        "NOME": "Programação Orientada a Objetos",
+        "PROFESSORES": "Otavio",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "19h00-21h00",
+          "19h00-21h00"
+        ],
+        "ID": 15,
+        "NOME": "Banco de Dados",
+        "PROFESSORES": "Daniela Musa",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "21h00-23h00",
+          "21h00-23h00"
+        ],
+        "ID": 51,
+        "NOME": "Cálculo Numérico",
+        "PROFESSORES": "Leduíno",
+        "TERMO": "4",
+        "TURMA": "NB"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "19h00-21h00"
+        ],
+        "ID": 25,
+        "NOME": "Bioética e Biosseguranca",
+        "PROFESSORES": "Luciane",
+        "TERMO": "6",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-N",
+        "DIA": [
+          "Sexta"
+        ],
+        "HORARIO": [
+          "21h00-23h00"
+        ],
+        "ID": 228,
+        "NOME": "Tópicos especiais em Economia e Negócios I",
+        "PROFESSORES": "Scriptore",
+        "TERMO": "4",
+        "TURMA": "N"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "15h30-17h30",
+          "15h30-17h30"
+        ],
+        "ID": 102,
+        "NOME": "Inferência e Análise de Regressão",
+        "PROFESSORES": "Luzia",
+        "TERMO": "6",
+        "TURMA": "I"
+      },
+      {
+        "COLOR": "#385F73",
+        "CURSO": "BCT-I",
+        "DIA": [
+          "Terça",
+          "Quinta"
+        ],
+        "HORARIO": [
+          "13h30-15h30",
+          "13h30-15h30"
+        ],
+        "ID": 11,
+        "NOME": "Arquitetura e Organização de Computadores",
+        "PROFESSORES": "Thaina",
+        "TERMO": "4",
+        "TURMA": "IB"
+      }
+    ],
+    "ra": "999999",
+    "termo": "4"
+  }
+]
