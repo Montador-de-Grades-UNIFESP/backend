@@ -1,10 +1,12 @@
 from firebase_admin import auth
-from fastapi import Cookie
+from fastapi import Cookie, HTTPException
 from . import services
 
 
-async def get_user(auth_token: str = Cookie(None)):
+async def get_user(session_token: str = Cookie(None)):
     """Dependência(fastapi) que retorna o usuário autenticado."""
-    user_id = services.get_session(auth_token)
-    user = auth.get_user(user_id)
-    return user.email
+    session = await services.get_session(session_token)
+    if session is None:
+        raise HTTPException(status_code=403, detail="Acesso negado")
+    user = auth.get_user(session['user_id'])
+    return user
