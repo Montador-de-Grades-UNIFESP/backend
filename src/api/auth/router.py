@@ -1,6 +1,7 @@
 from fastapi import APIRouter, Response, status
 from auth import services as auth_services
 from . import schemas
+import os
 
 
 router = APIRouter()
@@ -15,9 +16,9 @@ async def criar_sessao(credenciais: schemas.SessaoPost):
     response = Response()
     response.set_cookie(key="session_token",
                         value=session_token,
-                        httponly=True,
-                        secure=True,
-                        samesite="strict")
+                        httponly=os.getenv("MODE") == "production",
+                        secure=os.getenv("MODE") == "production",
+                        samesite="none")
     return response
 
 
