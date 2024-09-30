@@ -9,4 +9,6 @@ async def get_user(session_token: str = Cookie(None)):
     if session is None:
         raise HTTPException(status_code=403, detail="Acesso negado")
     user = auth.get_user(session['user_id'])
+    if user is None:
+        raise HTTPException(status_code=403, detail="Acesso negado")
     return user
