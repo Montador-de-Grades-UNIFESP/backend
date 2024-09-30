@@ -22,7 +22,7 @@ async def consultar_ranking(user = Depends(get_user)):
     ranking_stream = db.collection('ranking').stream()
     ranking = []
     async for doc in ranking_stream:
-        ranking.append(schemas.DisciplinaGet.model_validate(doc.to_dict()))
+        ranking.append(doc.to_dict())
     if ranking:
         return ranking
     raise HTTPException(status_code=404, detail="Ranking não encontrado")
